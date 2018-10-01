@@ -1,5 +1,5 @@
 impress.js
-============
+=================
 
 It's a presentation framework based on the power of CSS3 transforms and 
 transitions in modern browsers and inspired by the idea behind prezi.com.
@@ -96,8 +96,6 @@ More descriptive comments added to demo CSS and impress.js source file, so now n
 Changes in version 0.5 introduced a bug (#126) that was preventing clicks on links (or any clickable elements) on
 currently active step. This release fixes this issue.
 
-
-
 ### 0.5 ([browse](http://github.com/bartaz/impress.js/tree/0.5), [zip](http://github.com/bartaz/impress.js/zipball/0.5), [tar](http://github.com/bartaz/impress.js/tarball/0.5))
 
 #### CHANGELOG
@@ -133,8 +131,6 @@ Version 0.4 changed `goto` API method into `stepTo`. It turned out that `goto` i
 can be used in JavaScript. That's why version 0.5 brings it back and removes `stepTo`.
 
 So if you have been using version 0.4 and have any reference to `stepTo` API method make sure to change it to `goto`.
-
-
 
 ### 0.4.1 ([browse](http://github.com/bartaz/impress.js/tree/0.4.1), [zip](http://github.com/bartaz/impress.js/zipball/0.4.1), [tar](http://github.com/bartaz/impress.js/tarball/0.4.1))
 
